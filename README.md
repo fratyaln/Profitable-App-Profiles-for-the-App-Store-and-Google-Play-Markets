@@ -20,7 +20,7 @@ Our validation strategy for launching new apps includes:
 - Analyze the most common app genres on each platform.
 
 ## Files
-- `test.ipynb`: The main Jupyter Notebook containing data exploration and analysis.
+- `Profitable_app.ipynb`: The main Jupyter Notebook containing data exploration and analysis.
 
 ## Functions
 - `freq_table_percentages(df, column_name)`: Returns a frequency table with percentages for a selected column.
